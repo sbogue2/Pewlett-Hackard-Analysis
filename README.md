@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-To perform this analysis, we combined data from 6 different CSV spreadsheet using SQL. We created tables to hold the data and linked them together through primary key and foreign key relations. Below is a DRB showing the table structure:
+To perform this analysis, we combined data from 6 different CSV spreadsheet using SQL. We created tables to hold the data and linked them together through primary key and foreign key relations. Below is a ERB showing the table structure:
 
 ![EmployeeDB](https://user-images.githubusercontent.com/104707395/206572215-b403992d-22af-43e2-a188-401587295919.png)
 
