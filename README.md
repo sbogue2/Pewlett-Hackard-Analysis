@@ -15,5 +15,13 @@ To perform this analysis, we combined data from 6 different CSV spreadsheet usin
 ## Results 
 
 ### Deliverable 1
-* Pewlett-Hackard has 300,024 employees and 133,776 of them will be retiring soon. That means that they will soon have a vacancy rate of 44.6 percent! That's great news for perspective employees, but not so great for the company.
-* 
+* Pewlett-Hackard has 300,024 employees and 72,458 of them will be retiring soon. That means that they will soon have a vacancy rate of 24.2 percent. That's great news for prospective employees, but not so great for the company.
+* Out of the 72,458 employees that will soon be retiring, 50,842 (70%) of them hold senior positions. That means there will be a lot of opportunity for individuals holding Engineer and Staff titles to move up in the company. 
+![Pewlett-Hackard_Retiring_Titles](https://user-images.githubusercontent.com/104707395/206574444-e34c0250-187d-46a3-a131-15d72330699f.png)
+
+### Deliverable 2
+* There are 1,549 potential mentors within the company that could help train new staff to fill vacancies. 
+* When compared to the 72,458 positions that will soon be vacant, that is a mentee:mentor ratio of approximately 47:1. 
+
+## Summary
+Pewlett-Hackard is facing a monstrous retirement cliff, or as they like to call it, the "Silver Tsunami". They should begin preparations to promote existing staff and recruit new staff immediately. While the mentorship program that has been suggested would certainly help the transition of new staff into the company, the low number of potential mentors will likely dampen the programs effectiveness. Furthermore, it may be helpful to identify which positions the 
